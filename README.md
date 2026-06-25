@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @eklavyasingh
-- 👀 I’m interested in Data Analytics
+- 👀 I’m interested in Machine learning and mathematics
 - 🌱 I’m currently learning Python and Neural Networks
 - 📫 Reach me eklavyasingh63@gmail.com
 
